@@ -1,0 +1,11 @@
+**/Dockerfile
+**/*.md
+**/*.sh
+**/*.code-workspace
+**/.DS_Store
+**/*.exe
+
+**/.git
+.gitignore
+.dockerignore
+.vscode
